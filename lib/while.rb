@@ -5,5 +5,4 @@ def using_while
   puts phrase
     levitation_force += 1
   end
-  puts "You did it! The feather is levitating!"
 end
